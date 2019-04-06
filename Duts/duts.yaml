@@ -1,0 +1,19 @@
+# Created by Sam Wu on 2019-04-04
+
+-
+    dut_name: "testbench_1"
+    dut_ip: "172.17.0.3"
+    dut_ssh_port: 22
+    ssh_user: "root"
+    ssh_passwd: "123456"
+    dut_os: "centos"
+    dut_os_version: "7"
+
+-
+    dut_name: "testbench_2"
+    dut_ip: "172.17.0.4"
+    dut_ssh_port: 22
+    ssh_user: "root"
+    ssh_passwd: "123456"
+    dut_os: "centos"
+    dut_os_version: "7"
